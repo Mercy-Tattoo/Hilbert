@@ -18,7 +18,7 @@
 
         <ImageView
             android:id="@+id/image1"
-            android:layout_width="192dp"f
+            android:layout_width="192dp"
             android:layout_height="157dp"
             android:adjustViewBounds="true"
             android:src="@drawable/f"
